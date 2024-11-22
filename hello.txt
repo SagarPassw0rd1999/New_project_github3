@@ -2,3 +2,10 @@ hello world
 how are u all?
 
 (sending message)
+
+
+"Generate two responses to the following scenario, where each response must tackle a different approach to improving the performance of a C/C++ program. At least one of these responses should contain a major failure, such as misunderstanding the task, suggesting incorrect or irrelevant changes, or making a logic error that leads to poor performance. Make sure both responses seem plausible, but one must clearly fail in an important way.
+
+Scenario:
+Imagine you are advising a software development team on how to optimize a C/C++ program for better performance. Provide two different recommendations that could be taken by the team, one of which should fail to improve performance effectively."
+
